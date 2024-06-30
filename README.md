@@ -1,5 +1,7 @@
 # Disk Defragmentation Simulation
 
+https://github.com/pansapiens/go-defrag-sim/assets/39485/5ce110a0-1f7e-4196-8ed3-c0611ae8b335
+
 A toy visualization inspired by the [hypnotic DOS disk defragmentation program](https://youtu.be/lxZyxxHOw3Y?si=7IolvOg4tHWxgn-2&t=148), `scandisk.exe`.
 I've tried to give it similar aesthetics, but haven't attempted historical or algorithmic accuracy.  
 I don't think it quite captures the magic of the original, but here it is.
