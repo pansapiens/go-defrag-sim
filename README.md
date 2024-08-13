@@ -47,3 +47,8 @@ Run in a 80x20 terminal, forever:
 go mod download
 go build -o scandisk.exe main.go
 ```
+
+## See also
+
+- https://github.com/benholmen/defrag/blob/main/src/DefragPrinter.php
+- https://bisqwit.iki.fi/jutut/kuvat/programming_examples/enfrag.pas
